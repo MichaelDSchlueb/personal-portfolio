@@ -1,5 +1,7 @@
 nav {
-
 background-color: orange;
+}
 
+li {
+  display: inline-block;
 }
